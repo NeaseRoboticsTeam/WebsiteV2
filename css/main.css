@@ -9,7 +9,10 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
+body{
+   background-color:#103314;  
+   background-image: url(../img/noisy-background_1194-7547.jpg);
+}
 html {
     color: #222;
     font-size: 1em;
